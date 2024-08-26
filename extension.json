@@ -1,0 +1,11 @@
+{
+  "name": "Donghua Life",
+  "description": "Una extensión para obtener contenido de Donghua Life.",
+  "version": "1.0",
+  "language": "es",
+  "type": "anime",
+  "icon": "https://donghualife.com/favicon.ico",
+  "url": "https://donghualife.com",
+  "code": "DonghuaLife",
+  "settings": []
+}
